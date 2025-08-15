@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p>
+        This app respects and protects your privacy. We do not share, sell, or disclose your personal 
+        information to third parties except as required by law or to provide app functionality.
+    </p>
+    <p>
+        Any information collected is used solely to provide and improve the service. By using this app, 
+        you agree to the terms of this policy.
+    </p>
+    <p>Contact: your-email@example.com</p>
+</body>
+</html>
